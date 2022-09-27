@@ -53,11 +53,11 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kroim&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Panichevnyi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  &nbsp; | &nbsp;
 --- | --- 
-![github stats](https://github-readme-stats.vercel.app/api?username=kroim&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-1337&theme=github_dark&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=Panichevnyi&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Panichevnyi&theme=github_dark&layout=compact)
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kroim&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
@@ -66,7 +66,7 @@
 
 ## Git profile Trophies
 <p> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kroim&layout=compact&theme=algolia" alt="trophy" width="700px"/></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Panichevnyi&layout=compact&theme=algolia" alt="trophy" width="700px"/></a> 
 </p>
 
 <p>
