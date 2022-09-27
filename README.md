@@ -10,12 +10,12 @@
 <table>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="55" height="55"/></td>
   </tr>  
@@ -24,7 +24,6 @@
 <h3 align="left">Technologies</h3>
 <table>
   <tr>
-    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></td>
@@ -34,6 +33,7 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" alt="yii" width="40" height="40"/></td>
     <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_nft.png" alt="nft" width="40" height="40"/></td>
     <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_defi.png" alt="defi" width="40" height="40"/></td>
+    <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_truffle.png" alt="truffle" width="40" height="40"/></td>
     <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_bitcoin.png" alt="bitcoin" width="40" height="40"/></td>
     <td><img src="https://github.com/sunmoon11100/profile/blob/main/icons/icon_metamask.png" alt="metamask" width="40" height="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
