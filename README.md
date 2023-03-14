@@ -53,8 +53,7 @@
 <!--   GitHub stats graph -->
 <h1 align="center">📈 GitHub Activity Graph: 📊</h1>
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Panichevnyi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Panichevnyi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  &nbsp; | &nbsp;
 --- | --- 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Panichevnyi&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Panichevnyi&theme=github_dark&layout=compact)
