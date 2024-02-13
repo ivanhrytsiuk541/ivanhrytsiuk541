@@ -17,7 +17,6 @@
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="55" height="55"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity" width="55" height="55"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="55" height="55"/></td>
   </tr>  
 </table>
   
